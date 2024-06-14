@@ -19,6 +19,20 @@ https://book.getfoundry.sh/
 
 ## Usage
 
+### Install 
+
+1. Install OpenZeppelin Libs:
+
+```
+forge install OpenZeppelin/openzeppelin-contracts@v5.0.2
+```
+
+2. Run tests
+
+```
+forge test
+```
+
 ### Build
 
 ```shell
